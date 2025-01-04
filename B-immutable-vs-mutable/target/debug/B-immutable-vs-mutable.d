@@ -1,1 +1,0 @@
-/Users/npwitk/Library/Mobile\ Documents/com~apple~CloudDocs/Courses/Rust\ Mastery\ Saga/cant-rust-me-beginner/B-immutable-vs-mutable/target/debug/B-immutable-vs-mutable: /Users/npwitk/Library/Mobile\ Documents/com~apple~CloudDocs/Courses/Rust\ Mastery\ Saga/cant-rust-me-beginner/B-immutable-vs-mutable/src/main.rs
