@@ -5,3 +5,12 @@
 /M-vectors/target
 /N-iterators-and-closures/target
 /O-hashmaps/target
+/P-error-handling/target
+/Q-smart-pointers/target
+/R-traits-as-a-type/target
+/S-rust-threads/target
+/T-channels/target
+/U-tokio-async/target
+/V-modules-and-crates/target
+/W-macros/target
+/X-debugging/target
